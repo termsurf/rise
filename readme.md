@@ -27,6 +27,10 @@ This is a curated list of local and global non-profits you can donate to. They a
 
 Add a `.csv` into the `list` folder grouped by location. See the `list/place/world/us/california/oakland` for an example.
 
+## General Sites
+
+- https://impactful.ninja
+
 ## License
 
 Public Domain
