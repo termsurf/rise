@@ -1,0 +1,10 @@
+Here is an example CSV, with the correct fields in the correct order, which specifies non-profits to donate to in Oakland (an example location):
+
+name,founded,website,description,info
+Bananas,1973,https://www.bananasbunch.org,"A non-profit child care referral and support agency serving Northern Alameda County.",https://localwiki.org/oakland/Bananas_%28Child_Care_Referral%29
+East Bay Children's Book Project,May 2005,https://www.eastbaychildrensbookproject.org,"Focuses on building literacy by providing free books to children in need.",https://localwiki.org/oakland/East_Bay_Children%27s_Book_Project
+East Oakland Youth Development Center,,https://www.eoydc.org,"Provides educational, social, and physical development activities for youth in East Oakland.",https://localwiki.org/oakland/East_Oakland_Youth_Development_Center
+Ella Baker Center for Human Rights,1996,https://www.ellabakercenter.org,"Named after civil rights crusader Ella Baker, the center focuses on organizing, leadership development, and advocacy.",https://localwiki.org/oakland/Ella_Baker_Center_for_Human_Rights
+Oakland Community Organizations,,https://www.oaklandcommunity.org,"A consortium of non-profits focused on social justice.",https://localwiki.org/oakland/Oakland_Community_Organizations
+
+Please do the same but for [X] location, find 20 non-profits one can donate to in that location. Make sure to properly format the CSV file with quotes around values which contain commas, etc.. Make sure to include a broad selection of non-profits covering various different aspects of the community.

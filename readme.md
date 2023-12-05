@@ -25,7 +25,7 @@ This is a curated list of local and global non-profits you can donate to. They a
 
 ## Contributing
 
-Add a `.csv` into the `list` folder grouped by location. See the `list/place/world/us/california/oakland` for an example.
+Add a `.csv` into the `list` folder grouped by location. See the `list/place/world/us/california/oakland` for an example. Please add your local community location to the dataset! [Here] is a ChatGPT template you can use to get some initial data.
 
 ## General Sites
 
